@@ -113,11 +113,11 @@ Visit -http://localhost:3000
 
 ## 💬 Example Use Cases
 
--“Start a JavaScript skill assessment”
--“Evaluate my React knowledge”
--“Show my quiz performance summary”
--“Generate practice questions for frontend development”
--"Generate Cover Letter and Resume"
+**“Start a JavaScript skill assessment”
+**“Evaluate my React knowledge”
+**“Show my quiz performance summary”
+**“Generate practice questions for frontend development”
+**"Generate Cover Letter and Resume"
 
 ## 🧩 Core Modules
 
